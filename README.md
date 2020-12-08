@@ -1,7 +1,7 @@
 # Residential Home Value Prediction
 ### UW Data Science Milestone Project - Price Prediction
 
-This project uses data from the Kaggle on residential homes in King County, WA to predict home value and make binary classifaction predictions.  The data can be found and downloaded here: 
+This project uses data from the Kaggle on residential homes in King County, WA to predict home value and make binary classification predictions.  The data can be found and downloaded here: 
 - https://www.kaggle.com/harlfoxem/housesalesprediction/download
 
 For this project, we download directly from a link made available through University of Washington (https://library.startlearninglabs.uw.edu/DATASCI410/Datasets/kc_house_data.csv).
